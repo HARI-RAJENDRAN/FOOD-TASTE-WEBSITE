@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,600&family=Ubuntu:wght@700&display=swap" rel="stylesheet');
+body{
+    background-color:rgb(18, 18, 18);
+}
 .nav-link{
     display:flex;
     gap: 2rem;
